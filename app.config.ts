@@ -34,5 +34,9 @@ export default defineAppConfig({
       exclude: [],
       fluid: true
     }
+  },
+
+  nuxtIcon: {
+    size: '40'
   }
 })
