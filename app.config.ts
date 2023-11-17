@@ -37,6 +37,6 @@ export default defineAppConfig({
   },
 
   nuxtIcon: {
-    size: '40'
+    size: '48'
   }
 })
